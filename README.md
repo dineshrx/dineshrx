@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh Mathivanan Sethu Kumar</h1>
 <h3 align="center">Passionate for AI/ML, Computer Vision & Deep Learning</h3>
 
-- 🔭 I’m currently working on [YOLO V8-Computer Vision](https://github.com/dineshrx/Yolo-V8-Algorithm)
+- 🔭 I’m currently working on [Face Recognition](https://github.com/dineshrx/Face-Recognition)
 
 - 🌱 I’m currently learning **AI (Azure AI Fundamentals, Generative AI), Machine Learning, Deep Learning, Computer Vision, Pytorch, TensorFlow**
 

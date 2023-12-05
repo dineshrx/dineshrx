@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **dineshms.sm18@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.me/dineshms](https://flowcv.me/dineshms)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

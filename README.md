@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dinesh Mathivanan Sethu Kumar</h1>
 <h3 align="center">Passionate for AI/ML, Computer Vision & Deep Learning</h3>
 
-- 🔭 I’m currently working on [Face Recognition](https://github.com/dineshrx/Face-Recognition)
+- 🔭 I’m currently Preparing for Azure AI Fundamentals AI-900 Certification
 
-- 🌱 I’m currently learning **AI (Azure AI Fundamentals, Generative AI), Machine Learning, Deep Learning, Computer Vision, Pytorch, TensorFlow**
+- 🌱 I’m currently learning **AI (Azure AI Fundamentals, Generative AI), Machine Learning, Deep Learning, Computer Vision, Pytorch**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dineshrx?tab=repositories](https://github.com/dineshrx?tab=repositories)
 

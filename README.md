@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Preparing for Azure AI Fundamentals AI-900 Certification
 
-- 🌱 I’m currently learning **AI (Azure AI Fundamentals, Generative AI), Machine Learning, Deep Learning, Computer Vision, Pytorch**
+- 🌱 I’m currently learning - AI (Azure AI Fundamentals, Generative AI), Machine Learning, Deep Learning, Computer Vision, Pytorch
 
 - 👨‍💻 All of my projects are available at [https://github.com/dineshrx?tab=repositories](https://github.com/dineshrx?tab=repositories)
 

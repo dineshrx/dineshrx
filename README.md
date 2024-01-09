@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dinesh Mathivanan Sethu Kumar</h1>
 <h3 align="center">Passionate for AI/ML, Computer Vision & Deep Learning</h3>
 
+- 👨‍💻 I'm currently working on a Project - [Breast Cancer Classification using Neural Network](https://github.com/dineshrx/Breast-Cancer-Classification-using-Neural-Network)
+
 - 🔭 I’m currently Preparing for Azure AI Fundamentals AI-900 Certification
 
 - 🌱 I’m currently learning - AI (Azure AI Fundamentals, Generative AI), Machine Learning, Deep Learning, Computer Vision, Pytorch

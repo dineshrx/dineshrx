@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dineshrx?tab=repositories](https://github.com/dineshrx?tab=repositories)
 
-- 📫 How to reach me **dineshms.sm18@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh Mathivanan Sethu Kumar</h1>
 <h3 align="center">Passionate for AI/ML, Computer Vision & Deep Learning</h3>
 
-- 👨‍💻 I'm currently working on a Project - [Yolo V8]
+- 👨‍💻 I'm currently working on Master Thesis - Track & Trace Fingerprint 
 
 - 🔭 I’m currently Preparing for Azure AI Fundamentals AI-900 Certification
 
